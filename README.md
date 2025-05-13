@@ -1,5 +1,3 @@
----
-
 # 🎉 Bataille Navale – Double édition
 
 Bienvenue !
